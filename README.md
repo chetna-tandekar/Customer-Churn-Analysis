@@ -57,4 +57,9 @@ Project Files
 
 Conclusion
 
+
 This project demonstrates data cleaning, exploratory data analysis, visualization, and dashboard creation to understand customer churn.
+
+## Dashboard Preview
+
+![Customer Churn Dashboard](Customer_Churn_Dashboard.png)
